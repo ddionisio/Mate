@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultWidth">320px</dimen>
+    <dimen name="defaultHeight">480px</dimen>
+    <string name="preference">MatePrefs</string>
+    <item type="bool" name="debug" format="boolean">true</item>
+</resources>
